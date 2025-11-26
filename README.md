@@ -1,2 +1,0 @@
-# Insurance
-Insurance Prediction Dataset
